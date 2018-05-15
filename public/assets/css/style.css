@@ -1,19 +1,30 @@
+body {
+  background-image: url("../images/background.jpeg");
+  height: 100vh;
+  width: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body h1,h2 {
+  color: white;
+}
+
 li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
-  }
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
   
-  .label {
-    font-weight: bold;
-  }
+label {
+  font-weight: bold;
+  color: white;
+}
   
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
+ul {
+  font-weight: bold;
+}
   
-  .form-group {
-    margin-bottom: 5px;
-  }
+.form-group {
+  margin-bottom: 5px;
+}

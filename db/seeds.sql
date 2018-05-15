@@ -1,3 +1,3 @@
-INSERT INTO burgers (name, devoured) VALUES ('Sylvester', false),
-('Marilyn Manson', false),
-('Joe Biden', true);
+INSERT INTO burgers (name, devoured) VALUES ('Double Cheese Burger', false),
+('Bacon Deluxe Burger', false),
+('The Works Burger', true);
