@@ -1,0 +1,25 @@
+{
+  "name": "eat-da-burger_app",
+  "version": "1.0.0",
+  "description": "Burger Node, Sequelize, Handlebars App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfidrych/Eat-Da-Burger_App.git"
+  },
+  "author": "Kristian Fidrych",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfidrych/Eat-Da-Burger_App/issues"
+  },
+  "homepage": "https://github.com/kfidrych/Eat-Da-Burger_App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.15.0"
+  }
+}
